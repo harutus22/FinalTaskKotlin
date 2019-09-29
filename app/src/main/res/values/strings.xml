@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalTaskKotlin</string>
+    <string name="rating">Rating:</string>
+    <string name="releaseYear">Release Year:</string>
+</resources>
